@@ -1,0 +1,8 @@
+function solution(str){
+  return str.split('').reverse().join('')
+}
+
+// split function splits string to array
+// reverse function reverses the characters in the string
+// join puts the elements back together again in the array
+// !alioV !desrerev si gnirts ehT
